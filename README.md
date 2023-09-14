@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **3D deep learning and robotics**
 
-- 🌱 I’m currently learning **pytorch lightening**
+- 🌱 I’m currently learning **[Event-based Vision](https://github.com/uzh-rpg/event-based_vision_resources)**
 
 - 💬 Ask me about **Robotics, Machine learning**
 
